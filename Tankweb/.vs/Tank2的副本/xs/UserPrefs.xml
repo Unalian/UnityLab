@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{968C3547-09CF-353B-01B5-B6B9AE541272}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="53" Column="1" />
+      <File FileName="../../../../../../../Applications/Unity/Hub/Editor/2019.3.14f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInput.cs" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="23" Column="64" />
+      <File FileName="Assets/Scripts/Managers/TankManager.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/mainmune.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="66120ed3-5c2b-4da1-9478-2c25cb21fe09" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

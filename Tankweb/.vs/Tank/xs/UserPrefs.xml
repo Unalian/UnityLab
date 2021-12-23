@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{70DE2E98-68AA-97C6-6E07-3689A05D62A9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/mainmune.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/quitcontrol.cs" Line="9" Column="6" />
+      <File FileName="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tank" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True">
+                <Node name="Animators" expanded="True">
+                  <Node name="Fonts" expanded="True">
+                    <Node name="Bowlby_One" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="TutorialInfo" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="ReadmeEditor.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Tank" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="651924e1-0896-462e-abe2-cbb055ef67b5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
